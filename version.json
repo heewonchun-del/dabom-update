@@ -1,0 +1,6 @@
+{
+  "version": "2.1",
+  "url": "https://github.com/heewonchun-del/dabom-update/releases/download/v2.1/dabom_setup.exe",
+  "notes": "Whisper medium 모델 적용으로 음성 인식 정확도 향상, 설치 접근성 개선, 레지스트리 관리 개선",
+  "reboot_required": "false"
+}
